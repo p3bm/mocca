@@ -31,7 +31,7 @@
 
 .. image:: https://github.com/haascp/mocca/blob/master/docs/mocca_icon_w.png?raw=true
 
-|
+**p3bm modifications** - 20Oct2023 - Aim to add ability to read in spectral data from Waters instruments and Agilent OpenLabs. Will require modified form of evanyeyeye's rainbow repository (see my fork of rainbow for required changes).
 
     MOCCA (Multivariate Online Contextual Chromatographic Analysis) is an open-source Python project to analyze HPLC–DAD raw data.
 
