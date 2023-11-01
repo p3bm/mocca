@@ -56,9 +56,10 @@ Installation
 
     pip install mocca
 
-#. If you want to use ``mocca``'s reporting functionality::
+#. If you want to use ``mocca``'s reporting functionality (update to requests_toolbelt also seems to be required, ignore error about datapane dependency issues)::
 
     pip3 install -U datapane==0.14
+    pip install requests_toolbelt==1.0
 
 #. If you want to use Allotrope (adf) file format::
 
